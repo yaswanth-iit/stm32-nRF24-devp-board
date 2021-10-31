@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name rf_iit_logo)(type KiCad)(uri "E:/Embedded Hardware Engineer/2. Kicad/4. STM32 RF/STRF-Kicad-master/rf_iit_logo.pretty")(options "")(descr ""))
+  (lib (name FabDrawingTemplates)(type KiCad)(uri "E:/Embedded Hardware Engineer/2. Kicad/Zmisc/FabDrawingTemplates.pretty")(options "")(descr ""))
+)
