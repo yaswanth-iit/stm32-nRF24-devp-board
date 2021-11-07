@@ -1,4 +1,4 @@
-# stm32-nRF24-devp-board
+# STM32-nRF24 RF devpelopment board
 This repository contains STM32 nRF24 development board schematics, PCB layout, output files ( designed using kiCAD )
 
 [Schematics](https://raw.githubusercontent.com/yaswanth-iit/stm32-nRF24-devp-board/master/quick%20view/schematics-stm32-nrf24.pdf)
